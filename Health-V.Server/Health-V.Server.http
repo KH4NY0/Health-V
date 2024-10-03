@@ -1,6 +1,0 @@
-@Health_V.Server_HostAddress = http://localhost:5005
-
-GET {{Health_V.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
